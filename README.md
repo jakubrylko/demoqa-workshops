@@ -7,4 +7,3 @@ In this project, I have been developing automated web tests using [Cypress](http
 * [BDD Tests](https://github.com/jakubrylko/demoqa-workshops/tree/main/cypress/e2e/features)
 * [BDD Step definitions](https://github.com/jakubrylko/demoqa-workshops/tree/main/cypress/support/step-definitions)
 * [Helpers](https://github.com/jakubrylko/demoqa-workshops/tree/main/cypress/support)
-* 
