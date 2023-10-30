@@ -1,0 +1,27 @@
+{
+    "firstName": "Jakub",
+    "lastName": "Rylko",
+    "email": "jrylko@apptension.com",
+    "gender": "Male",
+    "number": "1234567890",
+    "birthDate": [
+        "31",
+        "August",
+        "1991"
+    ],
+    "subjects": [
+        "Computer Science",
+        "Arts",
+        "Chemistry",
+        "Economics",
+        "English",
+        "Physics"
+    ],
+    "hobbies": [
+        "Sports",
+        "Music"
+    ],
+    "address": "Lodowa 30/7,{enter}60-600 Poznan,{enter}Wielkopolska, Poland",
+    "state": "NCR",
+    "city": "Delhi"
+}

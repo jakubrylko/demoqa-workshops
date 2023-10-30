@@ -1,0 +1,7 @@
+# Artifacts
+downloads
+screenshots
+node_modules
+
+# Fixtures
+cypress/fixtures/upload
