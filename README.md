@@ -1,6 +1,6 @@
 # DemoQA Workshops
 
-In this project, I have been working on developing automated web tests using [Cypress](https://www.cypress.io/) framework and [DemoQA](https://demoqa.com/) - a website dedicated to practicing web automation. The project encompasses the automation of challenging elements for Cypress, such as alerts, iframes, and browser windows. Additionally, I have implemented the BDD Cucumber framework for several tests.
+In this project, I have been working on developing automated web tests using [Cypress](https://www.cypress.io/) framework and [DemoQA](https://demoqa.com/) - a website dedicated to practicing web automation. The project encompasses the automation of challenging elements for Cypress, such as alerts, iframes, and browser windows. Additionally, I have implemented the BDD Cucumber approach for several tests.
 
 ## Content
 * [Automation Test Store](https://github.com/jakubrylko/cypress-automation-framework/tree/main/cypress/e2e/automation-test-store) - user interface tests created for the e-commerce test store. Link to the [app](https://www.automationteststore.com/).
